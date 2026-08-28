@@ -1,16 +1,27 @@
-## Hi there 👋
+# Karim Mostafa
 
-<!--
-**Karimmm03/Karimmm03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focusing on scalable systems, API architecture, and performance optimization.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus & Tech Stack
+
+- **Languages:** TypeScript, JavaScript, Go, Python
+- **Backend & APIs:** Node.js, Express, REST, WebSockets
+- **Databases & Caching:** PostgreSQL, Redis
+- **DevOps & Tools:** Docker, Linux (WSL2), Git / GitHub Actions
+
+---
+
+### What I’m Working On
+
+- 🛠️ Building production-ready backend architectures with robust caching and containerization.
+- ⚡ Deep-diving into system design, database indexing internals (B-Trees), and low-level system utilities.
+- 🧩 Practicing algorithmic problem solving and data structures on LeetCode.
+
+---
+
+### Connect
+
+- **LinkedIn:** [linkedin.com/in/karim-mostafa-0804k2003](https://www.linkedin.com/in/karim-mostafa-0804k2003/)
+- **Email:** karimmostafa842003@gmail.com
