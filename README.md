@@ -15,9 +15,9 @@ Software Engineer focusing on scalable systems, API architecture, and performanc
 
 ### What I’m Working On
 
-- 🛠️ Building production-ready backend architectures with robust caching and containerization.
-- ⚡ Deep-diving into system design, database indexing internals (B-Trees), and low-level system utilities.
-- 🧩 Practicing algorithmic problem solving and data structures on LeetCode.
+- Building production-ready backend architectures with robust caching and containerization.
+- Deep-diving into system design, database indexing internals (B-Trees), and low-level system utilities.
+- Practicing algorithmic problem solving and data structures on LeetCode.
 
 ---
 
